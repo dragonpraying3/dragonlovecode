@@ -149,7 +149,7 @@ public class testing{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         
-        System.out.print("Your age: ");
+        System.out.print("Enter your age: ");
         int ageOfEntrant=sc.nextInt();
         double entryFee;
         
